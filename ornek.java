@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ornek {
+public class ornek {  //this is a calculater
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("1.number: ");
