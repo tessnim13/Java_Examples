@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class ornek4 { 
+public class ornek4 { //body index calculater
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Your Weight: ");
