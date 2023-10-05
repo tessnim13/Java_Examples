@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ornek2 { // we calculate the grades of the midterm and final.
+public class ornek2 { // I calculated the grades of the midterm and final.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Your midterm grade: ");
