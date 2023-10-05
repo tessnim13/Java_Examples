@@ -1,7 +1,7 @@
 import java.util.Scanner;
  
 
-public class ornek3 {
+public class ornek3 { //I calculated the hipothenus of a triangle
     public static void main(String[] args) {
         System.out.println("Bir dik üçgenin hipotenüsü hesaplanacaktır.");
         Scanner scanner = new Scanner(System.in);
