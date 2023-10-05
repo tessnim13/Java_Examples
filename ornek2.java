@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ornek2 {
+public class ornek2 { // we calculate the grades of the midterm and final.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Your midterm grade: ");
@@ -21,7 +21,7 @@ public class ornek2 {
         if (toplam >= 50 & finalNotu >= 50) {
             System.out.println("CONGRATULATIONS");
         } else {
-            System.out.println("YOU FAILED LOOSER");
+            System.out.println("YOU FAILED");
         }
         
     }
